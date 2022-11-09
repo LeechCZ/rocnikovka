@@ -1,3 +1,3 @@
 # rocnikovka
 Discord bot <br>
-Vedouci: Till
+Vedoucí: Till
