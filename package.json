@@ -1,0 +1,30 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.3.0",
+    "@discordjs/rest": "^1.3.0",
+    "discord-api-types": "^0.37.16",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  },
+  "keywords": [],
+  "description": "Discord bot <br>\r Vedoucí: Till",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeechCZ/rocnikovka.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeechCZ/rocnikovka/issues"
+  },
+  "homepage": "https://github.com/LeechCZ/rocnikovka#readme"
+}
