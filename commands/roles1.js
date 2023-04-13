@@ -33,10 +33,8 @@ module.exports = {
 
   async execute(interaction) {
     const role1 = interaction.options.getRole("role1");
-    const emoji1 = interaction.options.getString("emoji1") ?? "";
-    const description1 =
-      interaction.options.getString("description1") ??
-      `Click the firt button to get role ${role1.name}`;
+    const emoji1 = interaction.options.getString("emoji1");
+    const description1 = interaction.options.getString("description1");
 
     if (
       !interaction.member.permissions.has(
