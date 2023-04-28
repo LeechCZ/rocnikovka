@@ -3,7 +3,7 @@ Discord bot a server<br>
 Vedoucí: Till
 <br>
 ## Návod na instalaci
-Ke spuštění bota je nutné mít `Node v16.9.0` nebo vyšší. Verzi Node můžete zjistit pomocí příkazu `node -v`. <br>
+Ke spuštění bota je nutné mít `Node v16.9.0` nebo vyšší. Verzi Node můžete zjistit pomocí příkazu `node -v` <br>
 Naklonujste si repozotář pomocí: `git clone https://github.com/LeechCZ/rocnikovka.git`<br>
 Instalace balíčků: `npm i discord.js dotenv`<br>
 ### Ovládání bota
