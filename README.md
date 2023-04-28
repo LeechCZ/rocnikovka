@@ -10,4 +10,4 @@ Spuštění bota: `node index.js`<br>
 Registrování příkazů: `node deploy-commands.js`<br>
 Ukončení procesu: `Ctrl+C`<br>
 <br>
-Ke spuštění je nutné do složky kede se nachází i index.js vložit soubor .env s potřebnými přístupovými kódy.
+Ke spuštění je nutné do složky kde se nachází i index.js vložit soubor .env s potřebnými přístupovými kódy.
