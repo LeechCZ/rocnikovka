@@ -1,5 +1,5 @@
 # rocnikovka
-Discord bot <br>
+Discord bot a server<br>
 Vedoucí: Till
 <br>
 ## Návod na instalaci
