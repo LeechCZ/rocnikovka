@@ -2,6 +2,8 @@
 Discord bot a server<br>
 Vedoucí: Till
 <br>
+## Pozvánka na server `Střední průmyslová škola Mladá Boleslav`
+Pozvánka ještě nebyla zveřejněna<br>
 ## Návod na instalaci
 Ke spuštění bota je nutné mít `Node v16.9.0` nebo vyšší. Verzi Node můžete zjistit pomocí příkazu `node -v` <br>
 Naklonujste si repozotář pomocí: `git clone https://github.com/LeechCZ/rocnikovka.git`<br>
